@@ -1,0 +1,69 @@
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.deps.json
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.dll
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.dll
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.pdb
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.pdb
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.AssemblyReference.cache
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfoInputs.cache
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfo.cs
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CopyComplete
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\refint\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe Silva\Documents\Exercicios-C-Sharp\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\ref\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.deps.json
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfo.cs
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CopyComplete
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\refint\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\Retaguarda E Silva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\ref\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.deps.json
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.AssemblyReference.cache
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfoInputs.cache
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfo.cs
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CopyComplete
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\refint\RetaguardaESilva.Application.dll
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\ref\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.deps.json
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Domain.pdb
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\bin\Debug\net6.0\RetaguardaESilva.Persistence.pdb
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.AssemblyReference.cache
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfoInputs.cache
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.AssemblyInfo.cs
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.csproj.CopyComplete
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\refint\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.pdb
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\ref\RetaguardaESilva.Application.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Application\obj\Debug\net6.0\RetaguardaESilva.Application.sourcelink.json
