@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RetaguardaESilva.API.props" />
+</Project>

@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>RetaguardaESilva.API</name>
+    </assembly>
+    <members>
+        <member name="M:RetaguardaESilva.Controllers.EstoqueController.GetEnderecoProduto(System.Double)">
+            <summary>
+            EnderecoProduto/GET
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.EstoqueController.GetEnderecoProduto(System.Double,System.Double)">
+            <summary>
+            EnderecoProduto/GET/ID
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.EstoqueController.PostEnderecoProduto(RetaguardaESilva.Application.DTO.EnderecoProdutoCreateDTO)">
+            <summary>
+            EnderecoProduto/POST
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.EstoqueController.PutEnderecoProduto(RetaguardaESilva.Application.DTO.EnderecoProdutoUpdateDTO)">
+            <summary>
+            EnderecoProduto/PUT
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.EstoqueController.DeleteEnderecoProduto(System.Int32,System.Int32)">
+            <summary>
+            EnderecoProduto/DELETE
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.UsuarioController.GetUsuarios(System.Int32)">
+            <summary>
+            Traz todos os usuarios
+            </summary>
+            <param name="empresaId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.UsuarioController.GetFuncionariosUsuarios(System.Double)">
+            <summary>
+            Traz os funcionarios que ainda não são usuarios
+            </summary>
+            <param name="empresaId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.UsuarioController.GetUsuario(System.Int32,System.Int32)">
+            <summary>
+            Traz o usuario com as pemissões por id
+            </summary>
+            <param name="empresaId"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.UsuarioController.GetFuncionarioUsuario(System.Double,System.Double)">
+            <summary>
+            Traz o funcionario para incluir como usuario
+            </summary>
+            <param name="empresaId"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.UsuarioController.PostUsuario(RetaguardaESilva.Application.DTO.UsuarioCreateDTO)">
+            <summary>
+            Cria um usuario
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.UsuarioController.PutUsuario(RetaguardaESilva.Application.DTO.UsuarioUpdateDTO)">
+            <summary>
+            Atualiza um usuario pelo id
+            </summary>
+            <param name="id"></param>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:RetaguardaESilva.Controllers.UsuarioController.DeleteUsuario(System.Int32,System.Int32)">
+            <summary>
+            Deleta um usuario pelo id
+            </summary>
+            <param name="empresaId"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

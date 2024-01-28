@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RetaguardaESilvaBlazor.Web.props" />
+</Project>

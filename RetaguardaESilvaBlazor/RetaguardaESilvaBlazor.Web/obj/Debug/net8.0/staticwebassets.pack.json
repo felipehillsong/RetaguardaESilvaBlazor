@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\obj\\Debug\\net8.0\\compressed\\orjfgkf5lq.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RetaguardaESilvaBlazor.Web.styles.css",
+      "PackagePath": "staticwebassets\\RetaguardaESilvaBlazor.Web.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RetaguardaESilvaBlazor.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RetaguardaESilvaBlazor.Web.props",
+      "PackagePath": "build\\RetaguardaESilvaBlazor.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RetaguardaESilvaBlazor.Web.props",
+      "PackagePath": "buildMultiTargeting\\RetaguardaESilvaBlazor.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RetaguardaESilvaBlazor.Web.props",
+      "PackagePath": "buildTransitive\\RetaguardaESilvaBlazor.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

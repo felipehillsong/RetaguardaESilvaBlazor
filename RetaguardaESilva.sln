@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetaguardaESilva.Applicatio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RetaguardaESilva.API", "RetaguardaESilva.API\RetaguardaESilva.API.csproj", "{14ECCE6A-178F-4937-9F82-407984D85627}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorRetaguardaESilva.Web", "BlazorRetaguardaESilva\BlazorRetaguardaESilva.Web\BlazorRetaguardaESilva.Web.csproj", "{23D16987-1508-4069-AFA9-F572272E9B0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetaguardaESilvaBlazor.Web", "RetaguardaESilvaBlazor\RetaguardaESilvaBlazor.Web\RetaguardaESilvaBlazor.Web.csproj", "{6D80EB8D-FDBE-44DD-BAD9-D4968535955D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{14ECCE6A-178F-4937-9F82-407984D85627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14ECCE6A-178F-4937-9F82-407984D85627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14ECCE6A-178F-4937-9F82-407984D85627}.Release|Any CPU.Build.0 = Release|Any CPU
-		{23D16987-1508-4069-AFA9-F572272E9B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23D16987-1508-4069-AFA9-F572272E9B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23D16987-1508-4069-AFA9-F572272E9B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23D16987-1508-4069-AFA9-F572272E9B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D80EB8D-FDBE-44DD-BAD9-D4968535955D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D80EB8D-FDBE-44DD-BAD9-D4968535955D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D80EB8D-FDBE-44DD-BAD9-D4968535955D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D80EB8D-FDBE-44DD-BAD9-D4968535955D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
