@@ -2064,9 +2064,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\BlazorRetaguardaESilva\\BlazorRetaguardaESilva.Web\\BlazorRetaguardaESilva.Web.csproj",
-      "projectName": "BlazorRetaguardaESilva.Web",
-      "projectPath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\BlazorRetaguardaESilva\\BlazorRetaguardaESilva.Web\\BlazorRetaguardaESilva.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\BlazorRetaguardaESilva\\BlazorRetaguardaESilva.Web\\RetaguardaESilvaBlazor.Web.csproj",
+      "projectName": "RetaguardaESilvaBlazor.Web",
+      "projectPath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\BlazorRetaguardaESilva\\BlazorRetaguardaESilva.Web\\RetaguardaESilvaBlazor.Web.csproj",
       "packagesPath": "C:\\Users\\Felipe Silva\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\BlazorRetaguardaESilva\\BlazorRetaguardaESilva.Web\\obj\\",
       "projectStyle": "PackageReference",
