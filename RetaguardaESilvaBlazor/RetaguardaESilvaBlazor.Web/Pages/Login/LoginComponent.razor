@@ -1,0 +1,32 @@
+﻿@page "/loginComponent"
+@using RetaguardaESilvaBlazor.Web.Models.LoginViewModel
+<h3>LoginComponent</h3>
+<div class="d-flex align-items-center vh-100">
+
+    <div class="mx-auto text-center shadow-sm bg-white rounded p-5 my-5">
+
+        <EditForm Model="@login" OnValidSubmit="OnValidSubmit">
+            <DataAnnotationsValidator></DataAnnotationsValidator>
+            <i class="fa fa-users mb-2"></i>
+            <h1 class="h3 mb-3 font-weight-normal">Sistema Retaguarda E Silva</h1>
+            <InputText type="email" class="form-control" @bind-Value="login.Email" placeholder="Email" />
+            <ValidationMessage For="@(() => login.Email)" />
+            <br />
+            <InputText type="password" class="form-control" @bind-Value="login.Senha" placeholder="Senha" />
+            <ValidationMessage For="@(() => login.Senha)" />
+            <br />
+            <button class="btn btn-lg btn-primary" type="submit">Entrar</button>
+
+        </EditForm>
+    </div>
+</div>
+
+@code {
+    private LoginViewModel login = new LoginViewModel();
+    public string teste { get; set; }
+
+    public void OnValidSubmit()
+    {
+        
+    }
+}

@@ -47,3 +47,16 @@ C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Do
 C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.pdb
 C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Domain\obj\Debug\net6.0\ref\RetaguardaESilva.Domain.dll
 C:\Users\Felipe Silva\Documents\RetaguardaESilva\BackEnd\src\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.sourcelink.json
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\bin\Debug\net6.0\RetaguardaESilva.Domain.deps.json
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\bin\Debug\net6.0\RetaguardaESilva.Domain.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\bin\Debug\net6.0\RetaguardaESilva.Domain.pdb
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.csproj.AssemblyReference.cache
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.AssemblyInfoInputs.cache
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.AssemblyInfo.cs
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.sourcelink.json
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\refint\RetaguardaESilva.Domain.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\RetaguardaESilva.Domain.pdb
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Domain\obj\Debug\net6.0\ref\RetaguardaESilva.Domain.dll

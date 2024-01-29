@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "RetaguardaESilvaBlazor.Web",
   "resources": {
-    "hash": "sha256-R73/yzwqEw4p2/VmtzY/AN57iItg1qPRIDTFQhw/m7Q=",
+    "hash": "sha256-2lz6dm2923PEb7t7RmfuQiMAF9aQ793DcziGfgAgGco=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.fuiacuyjd5.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -208,10 +208,10 @@
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.Private.CoreLib.wasm": "sha256-CsySKiP7HYY1pS8LTDE60EkqiX5oHb3WoEZHDNd1yK0=",
-      "RetaguardaESilvaBlazor.Web.wasm": "sha256-CUz6qM2yYpKSdYFKHB3kZBEGDOX643BOLQZvpSFJWv0="
+      "RetaguardaESilvaBlazor.Web.wasm": "sha256-/kWmfnYi+8SMwMdHhrvDa3dm4DI8FTsCfQYbR4cjmt8="
     },
     "pdb": {
-      "RetaguardaESilvaBlazor.Web.pdb": "sha256-jjB2czQAt2/dax141X0B0u3JoUO0l7GkXjMtpFCu91I="
+      "RetaguardaESilvaBlazor.Web.pdb": "sha256-DMDl7981gnO1aypZxM2zExfWa6mRWMIWQbw7fpa7DJQ="
     }
   },
   "cacheBootResources": true,

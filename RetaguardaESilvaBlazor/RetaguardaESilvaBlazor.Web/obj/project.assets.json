@@ -2064,11 +2064,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\RetaguardaESilvaBlazor.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\RetaguardaESilvaBlazor.Web.csproj",
       "projectName": "RetaguardaESilvaBlazor.Web",
-      "projectPath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\RetaguardaESilvaBlazor.Web.csproj",
+      "projectPath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\RetaguardaESilvaBlazor.Web.csproj",
       "packagesPath": "C:\\Users\\Felipe Silva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\obj\\",
+      "outputPath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

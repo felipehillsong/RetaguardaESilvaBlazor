@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SMgrKikNfRO3Lla/uxVIvNkRS4SXEK/AykyD+zEfpI5Ad/Mcmkp2Cae2CqpR2IH0v5l3kPeWbCZiFr9YykE2sw==",
+  "dgSpecHash": "JjqsoZNJA4Jp+Pc7GwiqW60UjLJRM1hoa9tYcEqWMj5PA64P1P9pOVUcMylSf4kGc+61PziWFoOfqq2/hi76vg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilva Blazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\RetaguardaESilvaBlazor.Web.csproj",
+  "projectFilePath": "C:\\Users\\Felipe Silva\\Documents\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor\\RetaguardaESilvaBlazor.Web\\RetaguardaESilvaBlazor.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Felipe Silva\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.1\\microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
     "C:\\Users\\Felipe Silva\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.1\\microsoft.aspnetcore.components.8.0.1.nupkg.sha512",

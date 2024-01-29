@@ -13,31 +13,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = RetaguardaESilvaBlazor.Web
 build_property.RootNamespace = RetaguardaESilvaBlazor.Web
-build_property.ProjectDir = C:\Users\Felipe Silva\Documents\RetaguardaESilva Blazor\RetaguardaESilvaBlazor\RetaguardaESilvaBlazor.Web\
+build_property.ProjectDir = C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilvaBlazor\RetaguardaESilvaBlazor.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Felipe Silva\Documents\RetaguardaESilva Blazor\RetaguardaESilvaBlazor\RetaguardaESilvaBlazor.Web
+build_property.MSBuildProjectDirectory = C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilvaBlazor\RetaguardaESilvaBlazor.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Felipe Silva/Documents/RetaguardaESilva Blazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/App.razor]
+[C:/Users/Felipe Silva/Documents/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe Silva/Documents/RetaguardaESilva Blazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/Pages/Home.razor]
+[C:/Users/Felipe Silva/Documents/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe Silva/Documents/RetaguardaESilva Blazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/_Imports.razor]
+[C:/Users/Felipe Silva/Documents/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/Pages/Login/LoginComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW5Db21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Felipe Silva/Documents/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Felipe Silva/Documents/RetaguardaESilva Blazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/Layout/MainLayout.razor]
+[C:/Users/Felipe Silva/Documents/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-v3qfq9bfct
 
-[C:/Users/Felipe Silva/Documents/RetaguardaESilva Blazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/Layout/NavMenu.razor]
+[C:/Users/Felipe Silva/Documents/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor/RetaguardaESilvaBlazor.Web/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-x60f0y0e5c
