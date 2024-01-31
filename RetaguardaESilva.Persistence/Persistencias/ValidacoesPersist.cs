@@ -912,15 +912,15 @@ namespace RetaguardaESilva.Persistence.Persistencias
         public UsuarioViewModel Login(string email, string senha, out string mensagem)
         {
             var usuario = _context.Usuario.AsNoTracking().FirstOrDefault(u => u.Email == email && u.Senha == senha);
+            if (usuario == null)
+            {
+                mensagem = MensagemDeErro.LoginErro;
+                return null;
+            }
             var empresa = _context.Empresa.AsNoTracking().FirstOrDefault(e => e.Id == usuario.EmpresaId && e.Ativo == Convert.ToBoolean(Situacao.Ativo) && e.StatusExclusao != Convert.ToBoolean(Situacao.Excluido));
             if (empresa == null)
             {
                 mensagem = MensagemDeErro.EmpresaDesativadaOuInativada;
-                return null;
-            }
-            else if (usuario == null)
-            {
-                mensagem = MensagemDeErro.LoginErro;
                 return null;
             }
             else

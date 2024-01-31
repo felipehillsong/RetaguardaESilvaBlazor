@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetaguardaESilva.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ae48337781d10901957e80db592f51866575117")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e686989d2d2afc10630e345440e9ae34bcead10")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetaguardaESilva.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetaguardaESilva.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

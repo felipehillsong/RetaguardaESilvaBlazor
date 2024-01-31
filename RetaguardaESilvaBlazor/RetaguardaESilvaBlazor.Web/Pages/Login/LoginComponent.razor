@@ -1,11 +1,12 @@
-﻿@page "/loginComponent"
+﻿@page "/"
+@layout EmptyLayout
+@inject ILoginService _loginService
 @using RetaguardaESilvaBlazor.Web.Models.LoginViewModel
-<h3>LoginComponent</h3>
 <div class="d-flex align-items-center vh-100">
 
     <div class="mx-auto text-center shadow-sm bg-white rounded p-5 my-5">
 
-        <EditForm Model="@login" OnValidSubmit="OnValidSubmit">
+        <EditForm Model="@login" OnValidSubmit="Login">
             <DataAnnotationsValidator></DataAnnotationsValidator>
             <i class="fa fa-users mb-2"></i>
             <h1 class="h3 mb-3 font-weight-normal">Sistema Retaguarda E Silva</h1>
@@ -23,10 +24,9 @@
 
 @code {
     private LoginViewModel login = new LoginViewModel();
-    public string teste { get; set; }
 
-    public void OnValidSubmit()
+    public async void Login()
     {
-        
+        var usuario = await _loginService.Login(login);
     }
 }

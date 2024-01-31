@@ -1,11 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using RetaguardaESilva;
-using Microsoft.Extensions.DependencyInjection;
 using RetaguardaESilva.Application.ContratosServices;
 using RetaguardaESilva.Application.PersistenciaService;
 using RetaguardaESilva.Persistence.Data;
-using Microsoft.Extensions.Configuration;
-using Microsoft.OpenApi.Models;
 using RetaguardaESilva.Persistence.Contratos;
 using RetaguardaESilva.Persistence.Persistencias;
 using ProEventos.Persistence.Persistencias;
@@ -53,9 +49,11 @@ builder.Services.AddDbContext<RetaguardaESilvaContext>(context =>
     context.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
     context.EnableSensitiveDataLogging();
 });
+builder.Services.AddCors();
 builder.Services.AddCors(c =>
 {
     c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+    c.AddPolicy("AnotherPolicy", options => options.WithOrigins("https://localhost:7104"));
 });
 
 builder.Services.AddSwaggerGen(c =>
