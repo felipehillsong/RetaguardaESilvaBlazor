@@ -1,5 +1,6 @@
 ﻿@page "/"
 @layout EmptyLayout
+@inject NavigationManager NavigationManager
 @inject ILoginService _loginService
 @using RetaguardaESilvaBlazor.Web.Models.LoginViewModel
 <div class="d-flex align-items-center vh-100">
@@ -28,5 +29,6 @@
     public async void Login()
     {
         var usuario = await _loginService.Login(login);
+        NavigationManager.NavigateTo("/home");
     }
 }

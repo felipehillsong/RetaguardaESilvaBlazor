@@ -1,7 +1,15 @@
 ﻿@page "/home"
+@using Microsoft.AspNetCore.Components.Authorization
+<AuthorizeView>
+    <Authorized>
+    <PageTitle>Home</PageTitle>
 
-<PageTitle>Home</PageTitle>
+    <h1>Retaguarda e Silva</h1>
 
-<h1>Retaguarda e Silva</h1>
+    Seja bem vindo ao seu app!
+    </Authorized>
+    <NotAuthorized>
+        <h1>Usuario não autorizado</h1>
+    </NotAuthorized>
+</AuthorizeView>
 
-Seja bem vindo ao seu app!

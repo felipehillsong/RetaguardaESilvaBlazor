@@ -1,4 +1,6 @@
-﻿namespace RetaguardaESilvaBlazor.Web.Models.LoginViewModel
+﻿using System.Security.Claims;
+
+namespace RetaguardaESilvaBlazor.Web.Models.LoginViewModel
 {
     public class UsuarioViewModel
     {
@@ -12,5 +14,10 @@
         public int EmpresaId { get; set; }
         public string NomeEmpresa { get; set; }
         public List<PermissaoViewModel>? Permissoes { get; set; }
+
+        public static implicit operator ClaimsIdentity(UsuarioViewModel v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
