@@ -1699,3 +1699,9 @@ C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\obj\
 C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\obj\Debug\net6.0\RetaguardaESilva.API.pdb
 C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\obj\Debug\net6.0\RetaguardaESilva.API.genruntimeconfig.cache
 C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\obj\Debug\net6.0\ref\RetaguardaESilva.API.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll

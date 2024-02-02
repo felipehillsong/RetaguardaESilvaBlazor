@@ -75,3 +75,5 @@ C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Persiste
 C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Persistence\obj\Debug\net6.0\refint\RetaguardaESilva.Persistence.dll
 C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Persistence\obj\Debug\net6.0\RetaguardaESilva.Persistence.pdb
 C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Persistence\obj\Debug\net6.0\ref\RetaguardaESilva.Persistence.dll
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Persistence\bin\Debug\net6.0\RetaguardaESilva.Persistence.runtimeconfig.json
+C:\Users\Felipe Silva\Documents\RetaguardaESilvaBlazor\RetaguardaESilva.Persistence\obj\Debug\net6.0\RetaguardaESilva.Persistence.genruntimeconfig.cache
