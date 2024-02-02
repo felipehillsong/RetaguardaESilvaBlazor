@@ -6,6 +6,10 @@ using RetaguardaESilva.Persistence.Contratos;
 using RetaguardaESilva.Persistence.Persistencias;
 using ProEventos.Persistence.Persistencias;
 using System.Reflection;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -63,6 +67,23 @@ builder.Services.AddSwaggerGen(c =>
     c.IncludeXmlComments(xmlPath, includeControllerXmlComments: true);
 });
 
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<RetaguardaESilvaContext>()
+    .AddDefaultTokenProviders();
+
+var configuration = builder.Configuration;
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(option =>
+    option.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuer = false,
+        ValidateAudience = false,
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(
+        Encoding.UTF8.GetBytes(configuration["jwt:key"])),
+        ClockSkew = TimeSpan.Zero
+    });
 
 var app = builder.Build();
 app.UseCors(options => options.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
@@ -82,3 +103,7 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+app.UseRouting();
+app.UseAuthentication();
+app.UseAuthorization();

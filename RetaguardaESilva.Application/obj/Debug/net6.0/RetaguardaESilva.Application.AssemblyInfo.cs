@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RetaguardaESilva.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83144a35e9deff0655d6c2d7a513231253c6d4f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d28398d6dc808f0bf8aafd5721401601ae3cf37")]
 [assembly: System.Reflection.AssemblyProductAttribute("RetaguardaESilva.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RetaguardaESilva.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

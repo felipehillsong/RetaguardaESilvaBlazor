@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Design;
 using Microsoft.Extensions.Configuration;
 using RetaguardaESilva.Domain.Models;
@@ -11,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace RetaguardaESilva.Persistence.Data
 {
-    public class RetaguardaESilvaContext : DbContext
+    public class RetaguardaESilvaContext : IdentityDbContext
     {
         public RetaguardaESilvaContext(DbContextOptions<RetaguardaESilvaContext> options) : base(options){}        
         public DbSet<Cliente> Cliente { get; set; }
